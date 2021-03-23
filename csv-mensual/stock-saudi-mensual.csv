@@ -1,0 +1,16 @@
+﻿web-scraper-order,web-scraper-start-url,Date,Open,Close
+1616532253-201,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Mar 01, 2021",34.4,35.55
+1616532253-203,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Jan 01, 2021",35,34.65
+1616532253-214,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Jun 01, 2020",29.95,32.5
+1616532253-210,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Aug 01, 2020",33,35.55
+1616532253-222,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Jan 01, 2020",32.05,31.05
+1616532253-220,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Mar 01, 2020",29.91,27.41
+1616532253-202,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Feb 01, 2021",34.65,34.45
+1616532253-204,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Dec 01, 2020",35.65,35
+1616532253-206,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Nov 01, 2020",33.65,36
+1616532253-217,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"May 01, 2020",27.27,30
+1616532253-208,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Sep 01, 2020",35.45,35.9
+1616532253-218,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Apr 01, 2020",27.36,28.77
+1616532253-221,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Feb 01, 2020",31,30.32
+1616532253-207,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Oct 01, 2020",35.8,33.7
+1616532253-211,https://finance.yahoo.com/quote/2222.SR/history?period1=1577836800&period2=1616457600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Jul 01, 2020",32.45,33
